@@ -10,4 +10,4 @@ To validate the effectiveness of our strategies, backtesting is conducted, resul
 
 ![image](https://github.com/KyroKwok2021/OilCorrTrade-EnergyTransportAlpha/assets/96275232/f6fc5ff8-e780-438c-bb95-6bb3d3872ced)
 
-We hope that the insights and strategies shared in this repository will assist you in enhancing your trading approach and achieving better results. 
+I hope that the insights and strategies shared in this repository will assist you in enhancing your trading approach and achieving better results. 
